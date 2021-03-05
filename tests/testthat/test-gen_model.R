@@ -6,7 +6,9 @@ test_that("A simple call to fit_gen_model() has the right format and value of ou
   expect_is(output, "list")
   expect_equal(names(output), c("fit", "dev", "s_min", "names"))
 
-  expect_equal(output, example_gen_model)
+  expect_equal(output$a0, example_gen_model$a0)
+  expect_equal(output$df, example_gen_model$df)
+  expect_equal(output$dev, example_gen_model$dev)
 })
 
 

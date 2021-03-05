@@ -13,10 +13,15 @@ Cannings* (see our [preprint](https://arxiv.org/abs/2102.04296)).
 
 ## Installation
 
-<!-- You can install the development version of ICBioMark from [CRAN](https://CRAN.R-project.org) with: -->
+You can install the release version of ICBioMark from
+[CRAN](https://CRAN.R-project.org) with:
 
-You can install the development version of this package from this github
-repository (using the
+``` r
+install.packages("ICBioMark")
+```
+
+Alternatively, you can install the development version of this package
+from this github repository (using the
 [devtools](https://CRAN.R-project.org/package=devtools) package) with:
 
 ``` r

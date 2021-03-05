@@ -1,7 +1,7 @@
-96c0e21e3da159dbe89e3eefe4df422d *DESCRIPTION
+d529921804aa661c115f3b584bf53935 *DESCRIPTION
 98bef4dda8679dea362e9f3829a3667f *LICENSE
 c25d714752b93543eb3b305c272d546b *NAMESPACE
-b8f1f269b3542d79e7e4717042c2f7b1 *NEWS.md
+1b4c8325e0189b3d8c585af6db8b8351 *NEWS.md
 58aa8545b7699438725e92ab0b974b26 *R/ICBioMark.R
 3d45e4b81c5f01c3a542be8f67ff12f3 *R/ensembl_gene_lengths.R
 45af827d0de1f8050ab3ae6f6d360d8c *R/example_data.R
@@ -11,7 +11,7 @@ b8f1f269b3542d79e7e4717042c2f7b1 *NEWS.md
 fd6e29134c8b999727c6ee328637a4ca *R/metrics.R
 338fff689f7418de8b769fcb5b1b8d69 *R/nsclc_data.R
 75170307054a2f804fca69b095146b29 *R/predict.R
-863d5f498cdc25c486cc0ee90b8446a0 *README.md
+bc800cabeef3a250edc9719927bbfad6 *README.md
 28117a9325330ad91824db17991d6d51 *data/ensembl_gene_lengths.rda
 2b1c5ebcb0ed0f1af3d70efa1692070b *data/example_first_pred_tmb.rda
 a9e9cfbdb7c1ef4aec58ae4cf71b90db *data/example_gen_model.rda
@@ -63,7 +63,7 @@ b450b8e749dc2bc93d8cdedf68292957 *man/pred_refit_panel.Rd
 f44f672b4a65653e350d22ab4c59f2b3 *man/vis_model_fit.Rd
 652780185c10f5c89a5899f77913174a *tests/testthat.R
 d41d8cd98f00b204e9800998ecf8427e *tests/testthat/datatest_table.rds
-e2baad0858ba65bd5f852c247a57f863 *tests/testthat/test-gen_model.R
+ed818d95324b16c1d3db55edd5511b5b *tests/testthat/test-gen_model.R
 503cccf3e1ac76de3ad343b7566f992a *tests/testthat/test-generate_maf_data.R
 0cfdd107ff65dd851c262622ad676094 *tests/testthat/test-maf_to_tables.R
 6f6641947b39384f7af421a7caf64f0d *tests/testthat/test-metrics.R
