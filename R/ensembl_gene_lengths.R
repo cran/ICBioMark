@@ -8,5 +8,5 @@
 #'   \item{max_cds}{The maximum coding sequence for each gene as given by the ensembl database.}
 #'   \item{Chromosome}{The chromosome where each gene is located.}
 #' }
-#' @source \url{https://www.ensembl.org/}
+#' @source See the folder data-raw.
 "ensembl_gene_lengths"

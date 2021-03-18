@@ -1,9 +1,9 @@
-d529921804aa661c115f3b584bf53935 *DESCRIPTION
+e971e8a7d4cd38b1284293603301204e *DESCRIPTION
 98bef4dda8679dea362e9f3829a3667f *LICENSE
 c25d714752b93543eb3b305c272d546b *NAMESPACE
-1b4c8325e0189b3d8c585af6db8b8351 *NEWS.md
+9b624aad3fa025247f7bd16004dfa6d7 *NEWS.md
 58aa8545b7699438725e92ab0b974b26 *R/ICBioMark.R
-3d45e4b81c5f01c3a542be8f67ff12f3 *R/ensembl_gene_lengths.R
+25c7ba5a8f28cb3396e99b2d1585c557 *R/ensembl_gene_lengths.R
 45af827d0de1f8050ab3ae6f6d360d8c *R/example_data.R
 6a5a8195f6ffa567dd9c889267193559 *R/gen_model.R
 59a3e44305354f4432a69fb1420132a5 *R/generate_maf_data.R
@@ -25,7 +25,7 @@ ea87b0b51db9ae5e99ce766ebf106603 *data/example_predictions.rda
 1900cc3e27c4f4be7eca79e75f6ac77b *data/nsclc_maf.rda
 fc387a7accb9214479e32907b75da03d *data/nsclc_survival.rda
 3b96d9cfd42e7a637006bd7c2a215d39 *man/ICBioMark.Rd
-13d99d9d76591a940304db7f8af33c59 *man/ensembl_gene_lengths.Rd
+a8bed8743252b40583f1d8e2c39586e0 *man/ensembl_gene_lengths.Rd
 11ae4cfe32877cd6b1930a6ef4b05d41 *man/example_first_pred_tmb.Rd
 c2b967c66adcb4adbaeda2ec13f0afeb *man/example_gen_model.Rd
 01ad33fb10bf76c04689ae61ba0e200c *man/example_maf_data.Rd
@@ -63,7 +63,7 @@ b450b8e749dc2bc93d8cdedf68292957 *man/pred_refit_panel.Rd
 f44f672b4a65653e350d22ab4c59f2b3 *man/vis_model_fit.Rd
 652780185c10f5c89a5899f77913174a *tests/testthat.R
 d41d8cd98f00b204e9800998ecf8427e *tests/testthat/datatest_table.rds
-ed818d95324b16c1d3db55edd5511b5b *tests/testthat/test-gen_model.R
+324b71093e9eeb29950f0daf6d9821ef *tests/testthat/test-gen_model.R
 503cccf3e1ac76de3ad343b7566f992a *tests/testthat/test-generate_maf_data.R
 0cfdd107ff65dd851c262622ad676094 *tests/testthat/test-maf_to_tables.R
 6f6641947b39384f7af421a7caf64f0d *tests/testthat/test-metrics.R

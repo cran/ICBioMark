@@ -1,7 +1,7 @@
 Package: ICBioMark
 Title: Data-Driven Design of Targeted Gene Panels for Estimating
         Immunotherapy Biomarkers
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     c(person(given = "Jacob R.",
            family = "Bradley",
@@ -23,9 +23,9 @@ Imports: stats, utils, glmnet, Matrix, dplyr, purrr, latex2exp,
         matrixStats, ggplot2, gglasso, PRROC
 Depends: R (>= 2.10)
 NeedsCompilation: no
-Packaged: 2021-03-03 15:24:37 UTC; s1505825
+Packaged: 2021-03-18 15:52:24 UTC; s1505825
 Author: Jacob R. Bradley [aut, cre] (<https://orcid.org/0000-0003-1616-4969>),
   Timothy I. Cannings [aut] (<https://orcid.org/0000-0002-2111-4168>)
 Maintainer: Jacob R. Bradley <cobrbradley@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-03-05 09:10:08 UTC
+Date/Publication: 2021-03-18 16:10:02 UTC

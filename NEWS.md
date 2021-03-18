@@ -1,3 +1,8 @@
+# ICBioMark 0.1.2
+
+## Bug fixes
+* Further Solaris OS test issues in fit_gen_model() resolved. 
+
 # ICBioMark 0.1.1
 
 ## Bug fixes 
